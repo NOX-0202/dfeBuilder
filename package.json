@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "main": "./src/DfeBuilder.js",
+    "scripts": {
+        "test": "node index.js",
+        "dev": "nodemon index.js"
+    }
+}
